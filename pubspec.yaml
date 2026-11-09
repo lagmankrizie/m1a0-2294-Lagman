@@ -1,0 +1,8 @@
+name: adet_m1a0_hello_world
+description: The first Dart activity for ADET.
+version: 1.0.0
+publish_to: none
+environment:
+  sdk: '>=3.11.5 <4.0.0'
+dev_dependencies:
+  test: ^1.33.0
